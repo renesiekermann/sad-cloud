@@ -1,6 +1,5 @@
 # Sad Cloud
 
-
 ![Sad Cloud](.images/sad-cloud.png)
 
 
