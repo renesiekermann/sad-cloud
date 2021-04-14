@@ -6,4 +6,4 @@ pr_status_thresholds:
   medium: 99999
   low: 99999
 pr_status_enabled: true
-pr_status_on_passed_check_enabled: false
+pr_comments_on_passed_check_enabled: false
