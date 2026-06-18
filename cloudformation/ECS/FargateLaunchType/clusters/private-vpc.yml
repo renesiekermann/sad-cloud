@@ -258,7 +258,7 @@ Resources:
     Type: AWS::ElasticLoadBalancingV2::LoadBalancer
     DependsOn: GatewayAttachement
     Properties:
-      Scheme: internet-facing
+      Scheme: internal
       LoadBalancerAttributes:
       - Key: idle_timeout.timeout_seconds
         Value: '30'
